@@ -105,8 +105,7 @@ pip install PySide6
 
 ## **License**
 
-[MIT License](LICENSE) (or your choice)
-
+[MIT License](LICENSE)
 ---
 
 ## **Acknowledgments**
